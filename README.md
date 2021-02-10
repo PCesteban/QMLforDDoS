@@ -5,3 +5,6 @@ This repository contains de code used to generate the results for the paper "Qua
 Code was adapted from:
 - https://pennylane.ai/qml/demonstrations.html
 - https://github.com/qiskit-community/qiskit-qcgpu-provider
+
+Dataset:
+- https://www.unb.ca/cic/datasets/ddos-2019.html
